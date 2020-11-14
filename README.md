@@ -1,1 +1,1 @@
-# This Repository is all about TensorFlow-2.0 with various examples
+# This Repository is all about TensorFlow-2.x with various examples
